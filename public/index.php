@@ -1,0 +1,11 @@
+<?php
+include"../template/header.php";
+include"../template/preloader.php";
+include"../template/topbar.php";
+include"../pages/banner.php";
+include"../pages/shortabout.php";
+include"../pages/features.php";
+include"../pages/steps.php";
+include"../pages/downloadoption.php";
+include"../template/footer.php";
+?>

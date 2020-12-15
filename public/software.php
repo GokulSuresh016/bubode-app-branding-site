@@ -1,0 +1,9 @@
+<?php
+include"../template/header.php";
+include"../template/preloader.php";
+include"../template/topbar.php";
+include"../pages/software-about.php";
+//include"../pages/pricing-plan.php";
+include"../pages/software-feature-download.php";
+include"../template/footer.php";
+?>
